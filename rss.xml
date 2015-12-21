@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Rugby King]]></title>
         <description><![CDATA[Rugby King]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rugby-king/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 20:29:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 20:54:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rugby-king/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4abe7458-70b3-46a0-bee7-25e463f68138.jpg">]]></description>
-            <link>undefinedf1822a05-5d0b-4c96-acda-899fd0cf1e19/index.html</link>
+            <link>https://thegrid.ai/rugby-king/f1822a05-5d0b-4c96-acda-899fd0cf1e19/index.html</link>
             <guid isPermaLink="false">f1822a05-5d0b-4c96-acda-899fd0cf1e19</guid>
-            <pubDate>Mon, 21 Dec 2015 20:29:37 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 20:53:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
