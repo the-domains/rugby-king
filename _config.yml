@@ -1,7 +1,7 @@
 name: Rugby King
 favicon: null
-layout_spectrum: 0.03539764625020325
-typography_spectrum: 0.6699867111165076
+layout_spectrum: 0.76751
+typography_spectrum: 0.24668
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6075810336042196
+  brandStrength: 0.5
   lightness: 0.3949686880223453
-  saturation: 0.24600603361614048
-  rhythmicContrast: 0.3082746625877917
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
