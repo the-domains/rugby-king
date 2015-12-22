@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-22T14:47:50.591Z'
+datePublished: '2015-12-22T14:50:40.016Z'
 publisher:
   domain: ''
   name: ''
 title: Chris Ashton aiming for the white shirt again...
-dateModified: '2015-12-22T14:38:48.409Z'
+dateModified: '2015-12-22T14:47:50.591Z'
 sourcePath: _posts/2015-12-22-chris-ashton-aiming-for-the-white-shirt-again.md
 published: true
 inFeed: true
