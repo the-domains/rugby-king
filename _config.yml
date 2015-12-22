@@ -1,9 +1,7 @@
-favicon: null
 name: Rugby King
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.26099
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6362007
-  lightness: 0.6899642
-  brandStrength: 0.25
   brandColors:
     - '#151617'
     - '#649216'
     - '#FCFCFC'
     - '#D10E27'
     - '#425B4C'
+  brandStrength: 0.25
+  lightness: 0.6899642
+  saturation: 0.6362007
   rhythmicContrast: 0.6075269
-typography_spectrum: 0.26099
-layout_spectrum: 0.1397849
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
